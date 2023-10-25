@@ -176,8 +176,7 @@ the functionality of your project.
 ### See also
 
 * See how to [create and run multiplatform tests](multiplatform-run-tests.md) to check that the code works correctly.
-* Learn more about the [project structure](multiplatform-mobile-understand-project-structure.md), the shared module's
-artifacts, and how the Android and iOS apps are produced.
+* Learn more about the [project structure](multiplatform-discover-project.md).
 
 ## Get help
 

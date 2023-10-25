@@ -56,7 +56,7 @@ For more details, see the [Set up the environment](multiplatform-mobile-setup.md
 
    ![Project view](select-project-view.png){width=200}
 
-For more on project features and how to use them, see [Understand the project structure](multiplatform-mobile-understand-project-structure.md).
+Learn more about the [project structure](multiplatform-discover-project.md).
 
 > You can find the configured project [on the `master` branch](https://github.com/kotlin-hands-on/kmm-networking-and-data-storage).
 >
