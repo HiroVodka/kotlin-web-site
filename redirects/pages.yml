@@ -692,3 +692,9 @@
     - /docs/multiplatform-mobile-concurrency-and-coroutines.html
     - /docs/kmm-concurrency-and-coroutines.html
   to: /docs/native-memory-manager.html
+
+- from:
+    - /docs/multiplatform-mobile-understand-project-structure.html
+    - /docs/kmm-understand-project-structure.html
+    - /docs/mpp-discover-project.html
+  to: /docs/multiplatform-discover-project.html
